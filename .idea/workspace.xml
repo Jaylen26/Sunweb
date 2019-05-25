@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b099f4cf-1fe0-4de5-8fb3-0211d4f3c110" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java" afterPath="$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java" />
-    </list>
+    <list default="true" id="b099f4cf-1fe0-4de5-8fb3-0211d4f3c110" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
