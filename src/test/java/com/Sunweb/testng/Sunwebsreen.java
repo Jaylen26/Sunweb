@@ -29,7 +29,7 @@ public class Sunwebsreen {
 
     @BeforeTest
     public void openBrowser() {
-        System.setProperty("webdriver.gecko.driver", "C:\\Users\\I.GT\\Desktop\\git code\\drivers\\geckodriver.exe");
+        Sstem.setProperty("webdriver.gecko.driver", "C:\\Users\\I.GT\\Desktop\\git code\\drivers\\geckodriver.exe");
         driver = new FirefoxDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
