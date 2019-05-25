@@ -22,8 +22,8 @@
       <file leaf-file-name="Sunwebsreen.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="373">
+              <caret line="34" column="70" lean-forward="false" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,9 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="448" />
+    <option name="y" value="158" />
     <option name="width" value="1400" />
     <option name="height" value="980" />
   </component>
@@ -452,7 +452,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1088" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1088" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -672,8 +672,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="373">
+          <caret line="34" column="70" lean-forward="false" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
