@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b099f4cf-1fe0-4de5-8fb3-0211d4f3c110" name="Default" comment="" />
+    <list default="true" id="b099f4cf-1fe0-4de5-8fb3-0211d4f3c110" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java" afterPath="$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
-              <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+              <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="448" />
     <option name="y" value="158" />
     <option name="width" value="1400" />
@@ -118,41 +120,6 @@
             <path>
               <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
               <item name="SunwebTestng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunwebTestng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunwebTestng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunwebTestng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SunwebTestng" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="SunwebTestng" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="testng.jar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -450,7 +417,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1088" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1088" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -671,7 +638,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/Sunweb/testng/Sunwebsreen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+          <caret line="31" column="10" lean-forward="false" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
